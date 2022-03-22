@@ -9,7 +9,7 @@
   
   inputs.src-unchained-v0_1_5.flake = false;
   inputs.src-unchained-v0_1_5.owner = "SciNim";
-  inputs.src-unchained-v0_1_5.ref   = "refs/tags/v0.1.5";
+  inputs.src-unchained-v0_1_5.ref   = "v0_1_5";
   inputs.src-unchained-v0_1_5.repo  = "unchained";
   inputs.src-unchained-v0_1_5.type  = "github";
   
