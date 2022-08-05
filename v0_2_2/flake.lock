@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-unchained-master": "src-unchained-master"
+        "src-unchained-v0_2_2": "src-unchained-v0_2_2"
       }
     },
-    "src-unchained-master": {
+    "src-unchained-v0_2_2": {
       "flake": false,
       "locked": {
         "lastModified": 1659715402,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "SciNim",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.2.2",
         "repo": "unchained",
         "type": "github"
       }
