@@ -527,7 +527,7 @@
   "heads": [
     {
       "name": "unchained",
-      "version": "0.1.9",
+      "version": "0.3.0",
       "author": "Vindaar",
       "desc": "Fully type safe, compile time only units library",
       "license": "MIT",
@@ -540,10 +540,10 @@
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.2.0",
+          "str": ">= 1.6.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.2.0"
+            "ver": "1.6.0"
           }
         }
       ],
