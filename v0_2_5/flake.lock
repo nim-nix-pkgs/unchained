@@ -204,22 +204,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
-        "src-unchained-master": "src-unchained-master"
+        "src-unchained-v0_2_5": "src-unchained-v0_2_5"
       }
     },
-    "src-unchained-master": {
+    "src-unchained-v0_2_5": {
       "flake": false,
       "locked": {
-        "lastModified": 1668733336,
-        "narHash": "sha256-IHSV5Ty8FQo6/JRKpeP1lBDiDgQM14oS50zvmDqNKuY=",
+        "lastModified": 1668623019,
+        "narHash": "sha256-9HByx8dsNn7eIVCIYpW0e271xncXik3DhGUnEDg0tIk=",
         "owner": "SciNim",
         "repo": "unchained",
-        "rev": "6956150343fa9f738224fe8af4375266d3d2f3dc",
+        "rev": "f885cb03d5a77340e0af47e342ca2e30c3c011df",
         "type": "github"
       },
       "original": {
         "owner": "SciNim",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.2.5",
         "repo": "unchained",
         "type": "github"
       }
