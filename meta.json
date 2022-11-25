@@ -502,8 +502,10 @@
     "refs/heads/master",
     "refs/heads/moreCompoundFixes",
     "refs/heads/moreImperial",
+    "refs/heads/newSiPrefixes",
     "refs/heads/teslaAndNaturalUnits",
     "refs/heads/testNim1.4",
+    "refs/heads/typedescsAndAliases",
     "refs/heads/unitsFromMacro",
     "refs/tags/v0.1.0",
     "refs/tags/v0.1.1",
@@ -527,7 +529,7 @@
   "heads": [
     {
       "name": "unchained",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "author": "Vindaar",
       "desc": "Fully type safe, compile time only units library",
       "license": "MIT",
